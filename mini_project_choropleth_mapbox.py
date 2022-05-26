@@ -58,5 +58,3 @@ fig = px.choropleth_mapbox(
 fig.update_geos(fitbounds="locations", visible=False)
 fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 fig.show()
-
-![캡처](https://user-images.githubusercontent.com/105343823/170421847-b4be815d-af76-432d-9e65-3baa1a8251fc.PNG)
