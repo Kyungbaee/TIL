@@ -1,15 +1,18 @@
 from sys import stdin
 
+# 좌표 넣을 구조체
 class XY:
     def __init__(self, x, y):
         self.x = x
         self.y = y
 
+# 바이러스 확산
 def BFS(copy_list, two):
     Q = []
     for check in two:
         Q.append(check)
 
+	## 상하좌우로 확산
         while(len(Q) != 0):                    
             ## RIGHT
             if (Q[0].y < M-1):
@@ -44,12 +47,14 @@ def BFS(copy_list, two):
 
 
 if __name__ == "__main__":
+## 지도의 세로 크기 N, 가로 크기 M
     N, M = map(int, stdin.readline().split())
     map_list = []
     two_list = []
     answer = 0
 
     for x in range(N):
+    ## N개의 지도의 모양
         numbers = list(map(int, stdin.readline().split()))
         line = []
         for y, num in enumerate(numbers):
@@ -58,14 +63,15 @@ if __name__ == "__main__":
             line.append(num)
         map_list.append(line)
 
+## 첫 번째 벽 경우의 수
     for first in range(N*M):
         if map_list[first//M][first%M] == 0:
             map_list[first//M][first%M] = 1
-
+	## 두 번째 벽 경우의 수
             for sec in range(first+1, N*M):
                 if map_list[sec//M][sec%M] == 0:
                     map_list[sec//M][sec%M] = 1
-
+		## 세 번째 벽 경우의수
                     for trd in range(sec+1, N*M):
                         if map_list[trd//M][trd%M] == 0:
                             map_list[trd//M][trd%M] = 1
@@ -78,5 +84,5 @@ if __name__ == "__main__":
                     map_list[sec//M][sec%M] = 0
             map_list[first//M][first%M] = 0
 
-
+## 최대 빈칸의 수
     print(answer)
