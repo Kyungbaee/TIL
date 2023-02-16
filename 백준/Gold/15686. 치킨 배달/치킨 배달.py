@@ -57,4 +57,5 @@ if __name__ == "__main__":
             cal_d = cal_distance(copy_map, bf_list)
             min_length = cal_d if min_length > cal_d else min_length
 
+    
     print(min_length)
