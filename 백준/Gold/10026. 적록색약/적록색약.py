@@ -1,6 +1,7 @@
 from sys import stdin
 from collections import deque
 
+# 좌표 구조체
 class XY:
     def __init__(self,x,y,color):
         self.x = x
@@ -17,7 +18,8 @@ def BFS(color_XY,color_dict,feature):
     while(len(q) != 0):
         color = q.popleft()
         i,j,c = color.x,color.y,color.color
-
+		
+        # 상하좌우 탐색 + feature==1(적록색약) 일 경우, 빨강 == 초록
         if i > 0:
             U_c = color_list[i-1][j].color
             if ( U_c == c or (feature and (c=="R" or c=="G") and (U_c=="R" or U_c == "G"))) and visited[i-1][j]:
@@ -39,19 +41,23 @@ def BFS(color_XY,color_dict,feature):
                 q.append(color_list[i][j+1])
                 visited[i][j+1] = False
 
+	# 딕셔너리의 색깔 별 영역의 수
     color_dict[color_list[x][y].color] += 1
 
+# 초기화
 def init():
     for i in range(N):
         for j in range(N):
             visited[i][j] = True
 
+# 일반인
 def func_nomal():
     for x in range(N):
         for y in range(N):
             if visited[x][y]:
                 BFS(color_list[x][y],color_dict,0)
-
+                
+# 적록색약
 def func_special():
     for x in range(N):
         for y in range(N):
@@ -69,10 +75,13 @@ if __name__ == "__main__":
         color_list.append(color_row)
         visited.append([ True for _ in range(N)])
 
+	# BFS에 사용할 덱
     q = deque()
     func_nomal()
+    # 일반인 영역의 수
     print(color_dict["R"]+color_dict["G"]+color_dict["B"], end = " ")
     init()
     color_dict = {"R":0, "G":0, "B":0}
     func_special()
+    # 적록색약 영역의 수
     print(color_dict["R"]+color_dict["G"]+color_dict["B"])
