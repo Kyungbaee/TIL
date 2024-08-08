@@ -1,5 +1,5 @@
 def solution(s):
-    s_list = list(map(lambda x: 1 if x=="(" else -1, s))
+    s_list = [1 if ss=="(" else -1 for ss in s ]
     
     cnt = 0
     for ss in s_list:
