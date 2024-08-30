@@ -1,9 +1,15 @@
 from collections import deque
+
+'''
+pc를 하나씩 BFS 탐색하되,
+BFS 과정에서 탐색한 pc는 패스한다.
+'''
 def bfs(n, pc):
-    visited, cnt = [0]*n, 1
+    visited, cnt = [0]*n, 1 
     for s in range(len(pc)):
         if not visited[s]:
             deq = deque([pc[s]])
+            ## cnt 값으로 서로 다른 네트워크 구분
             visited[s] = cnt
 
             while deq:
