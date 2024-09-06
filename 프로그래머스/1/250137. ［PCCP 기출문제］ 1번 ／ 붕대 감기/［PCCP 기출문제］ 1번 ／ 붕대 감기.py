@@ -1,4 +1,6 @@
 def solution(bandage, health, attacks):
+    ## 붕대감기
+    ## for, if 문 사용
     hp, seq, time = health, 0, 0
     
     for atk in attacks:
