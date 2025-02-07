@@ -2,41 +2,32 @@
 
 using namespace std;
 
-int dp[100001];
-
 int main(void){
     ios::sync_with_stdio(0); // c stream, c++ stream 중 c++ stream만 사용
     cin.tie(0); // 버퍼 비우지 않음
 
     int n;
     cin >> n;
-    dp[1] = -1;
-    dp[2] = 1;
-    dp[5] = 1;
 
+    int answer = 0;
+    int roop = n/5+1;
 
-    for(int i=1; i<n; i++)
-    {
-        if(dp[i] != -1)
+    while(roop--)
+    {   
+        int calc = roop + (n - roop*5)/2;
+        
+        if((n - roop*5)%2)
         {
-            if(i+2 <= n) 
-            {
-                if(dp[i+2] <= 0) dp[i+2] = dp[i]+1;
-                else dp[i+2] = min(dp[i]+1, dp[i+2]);
-            }
-            if(i+5 <= n) 
-            {
-                if(dp[i+5] <= 0) dp[i+5] = dp[i]+1;
-                else dp[i+5] = min(dp[i]+1, dp[i+5]);
-            }
+            if(answer == 0) answer = -1;
         }
-        else
+        else 
         {
-            if(i+2 <= n && dp[i+2]==0) dp[i+2] = -1;
-            if(i+5 <= n && dp[i+5]==0) dp[i+5] = -1;
+            if(answer > 0) answer = min(answer, calc);
+            else answer = calc;
         }
     }
 
-    cout << dp[n] << "\n";
+    cout << answer;
+
     return 0;
 }
