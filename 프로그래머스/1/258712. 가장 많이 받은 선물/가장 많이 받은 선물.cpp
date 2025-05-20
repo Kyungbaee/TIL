@@ -24,19 +24,21 @@ vector<string> split(string input, string delimiter) {
 
 int solution(vector<string> friends, vector<string> gifts) {
     
+    // 선물 기록
     for(string s : gifts){
         vector<string> sp = split(s, " ");
-        
         m[sp[0]][sp[1]]++;
         m[sp[1]][sp[0]]--;
     }
     
+    // 선물 지수 계산
     for(string s : friends){
         for(string ss : friends){
             if(m[s].find(ss) != m[s].end()) jisu[s] += m[s][ss];
         }
     }
 
+    // 선물 교환
     for(string s : friends){
         for(string ss : friends){
             if(m[s][ss] > 0) present[s]++;
@@ -44,6 +46,7 @@ int solution(vector<string> friends, vector<string> gifts) {
         }
     }
     
+    // 최대 선물 갯수
     int answer = 0;
     for(string s : friends){
         if(present[s] > answer) answer = present[s];
