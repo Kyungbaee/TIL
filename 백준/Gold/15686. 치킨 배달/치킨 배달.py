@@ -1,13 +1,11 @@
 from sys import stdin
 from itertools import combinations
 
-# 좌표 구조체
 class XY:
     def __init__(self, x, y):
         self.x = x
         self.y = y
 
-# 도시의 치킨 거리 계산
 def cal_distance(copy_map,bf_list):
     length = len(copy_map)
     chicken_road = 0
@@ -26,7 +24,6 @@ def cal_distance(copy_map,bf_list):
     return chicken_road
 
 if __name__ == "__main__":
-    # N * N의 도시, 최대 M개의 치킨집
     N, M = map(int, stdin.readline().split())
     chicken_map = []
     chicken_list = []
@@ -34,7 +31,6 @@ if __name__ == "__main__":
 
     min_length = 0
 
-    # 도시 지도 정보 및 치킨집 위치 삽입
     for x in range(N):
         map_info = []
         for y,num in enumerate(map(int, stdin.readline().split())):
@@ -46,7 +42,6 @@ if __name__ == "__main__":
             visited.append(0)
         chicken_map.append(map_info)
 
-    # COMBINATION을 통한 모든 치킨집 경우의 수, 브루트포스 알고리즘
     for bf_list in list(combinations(chicken_list,M)):
         copy_map = chicken_map.copy()
         for bf in bf_list:
@@ -57,5 +52,4 @@ if __name__ == "__main__":
             cal_d = cal_distance(copy_map, bf_list)
             min_length = cal_d if min_length > cal_d else min_length
 
-    
     print(min_length)
