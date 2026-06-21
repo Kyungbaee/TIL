@@ -9,6 +9,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Kyungbaee/TIL/tree/master/0735-asteroid-collision) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,4 +38,16 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Kyungbaee/TIL/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
