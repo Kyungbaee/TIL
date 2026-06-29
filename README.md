@@ -11,6 +11,7 @@
 | [1324-print-words-vertically](https://github.com/Kyungbaee/TIL/tree/master/1324-print-words-vertically) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kyungbaee/TIL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kyungbaee/TIL/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kyungbaee/TIL/tree/master/1189-maximum-number-of-balloons) |
 | [1324-print-words-vertically](https://github.com/Kyungbaee/TIL/tree/master/1324-print-words-vertically) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kyungbaee/TIL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Divide and Conquer
 |  |
 | ------- |
