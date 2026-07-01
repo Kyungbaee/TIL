@@ -12,12 +12,14 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kyungbaee/TIL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kyungbaee/TIL/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Kyungbaee/TIL/tree/master/1302-deepest-leaves-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -26,10 +28,12 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -96,4 +100,12 @@
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Kyungbaee/TIL/tree/master/1302-deepest-leaves-sum) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
