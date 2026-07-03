@@ -14,6 +14,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kyungbaee/TIL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kyungbaee/TIL/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
@@ -32,6 +33,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -117,4 +121,13 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
