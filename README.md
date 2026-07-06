@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Kyungbaee/TIL/tree/master/0735-asteroid-collision) |
+| [1288-remove-covered-intervals](https://github.com/Kyungbaee/TIL/tree/master/1288-remove-covered-intervals) |
 | [1324-print-words-vertically](https://github.com/Kyungbaee/TIL/tree/master/1324-print-words-vertically) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Kyungbaee/TIL/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
