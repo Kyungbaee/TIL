@@ -82,6 +82,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Kyungbaee/TIL/tree/master/1189-maximum-number-of-balloons) |
 | [1324-print-words-vertically](https://github.com/Kyungbaee/TIL/tree/master/1324-print-words-vertically) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kyungbaee/TIL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kyungbaee/TIL/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kyungbaee/TIL/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kyungbaee/TIL/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
 |  |
 | ------- |
@@ -136,4 +138,5 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kyungbaee/TIL/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Kyungbaee/TIL/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
