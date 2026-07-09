@@ -15,6 +15,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kyungbaee/TIL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kyungbaee/TIL/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kyungbaee/TIL/tree/master/1189-maximum-number-of-balloons) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kyungbaee/TIL/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -116,15 +118,18 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
