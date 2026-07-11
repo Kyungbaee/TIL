@@ -23,6 +23,7 @@
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Kyungbaee/TIL/tree/master/1302-deepest-leaves-sum) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kyungbaee/TIL/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Kyungbaee/TIL/tree/master/1302-deepest-leaves-sum) |
+| [2685-count-the-number-of-complete-components](https://github.com/Kyungbaee/TIL/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,11 +125,13 @@
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Kyungbaee/TIL/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Kyungbaee/TIL/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kyungbaee/TIL/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Kyungbaee/TIL/tree/master/3620-network-recovery-pathways) |
