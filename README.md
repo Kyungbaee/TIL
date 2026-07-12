@@ -10,6 +10,7 @@
 | [0735-asteroid-collision](https://github.com/Kyungbaee/TIL/tree/master/0735-asteroid-collision) |
 | [1288-remove-covered-intervals](https://github.com/Kyungbaee/TIL/tree/master/1288-remove-covered-intervals) |
 | [1324-print-words-vertically](https://github.com/Kyungbaee/TIL/tree/master/1324-print-words-vertically) |
+| [1331-rank-transform-of-an-array](https://github.com/Kyungbaee/TIL/tree/master/1331-rank-transform-of-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Kyungbaee/TIL/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kyungbaee/TIL/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Kyungbaee/TIL/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Kyungbaee/TIL/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kyungbaee/TIL/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Kyungbaee/TIL/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Kyungbaee/TIL/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Kyungbaee/TIL/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kyungbaee/TIL/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
